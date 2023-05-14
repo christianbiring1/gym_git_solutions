@@ -26,5 +26,13 @@ git branch --delete test
 ### Exercise 2
 
 ```sh
+git add home.html
+git stash -- home.html
 
+git add about.html
+git stash -- about.html
+
+git stash list // To see the list of my stashed files
+git stash pop stash@{2} // to restore the second file(about.html) that I have stashed
+git stash pop stash@{1}
 ```
