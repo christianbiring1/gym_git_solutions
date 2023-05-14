@@ -42,3 +42,15 @@ git push
 git stash pop stash@{0}
 git reset --hard
 ```
+
+## BUNDLE 2
+
+### Exercise 1
+
+```
+git checkout -b ft/bundle-2
+git add services.html
+git commit -m "Create the services pages"
+git push -u origin ft/bundle-2
+// Open PR for review
+```
