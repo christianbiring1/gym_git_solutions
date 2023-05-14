@@ -2,6 +2,8 @@
 
 ## BUNDLE 1
 
+### Exercise 1
+
 ```txt
 git init
 
@@ -19,4 +21,10 @@ git checkout -b test
 
 git checkout dev
 git branch --delete test
+```
+
+### Exercise 2
+
+```sh
+
 ```
