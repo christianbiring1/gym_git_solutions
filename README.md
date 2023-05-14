@@ -54,3 +54,10 @@ git commit -m "Create the services pages"
 git push -u origin ft/bundle-2
 // Open PR for review
 ```
+
+### Exercise 2
+
+```
+git checkout main
+git pull
+```
